@@ -2,6 +2,12 @@
 
 This project implements a simplified N-gram model (a purely simplified language model) in Python.
 
+## Structure du projet
+
+The project includes the following files:  
+- `main.py`: Source file.  
+- `text.txt`: Text file used as a dataset (currently the TinyShakespeare dataset).
+
 ### Main Functions
 
 - `clean_word(word)`: Cleans a word by removing punctuation characters and converting it to lowercase.
