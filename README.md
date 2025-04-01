@@ -2,7 +2,7 @@
 
 This project implements a simplified N-gram model (a purely simplified language model) in Python.
 
-## Structure du projet
+## Project's structure
 
 The project includes the following files:  
 - `main.py`: Source file.  
